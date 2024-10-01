@@ -1,0 +1,3 @@
+mpicxx esPIC.cpp -g -o esPIC -std=c++11 -fopenmp
+./run
+gnuplot

@@ -1,0 +1,48 @@
+
+---------------------------------------------
+
+ F I N I T E   D I F F E R E N C E         
+ D E M O   C O D E                           
+
+ Running on 4 processors 
+
+---------------------------------------------
+
+
+Input Summary: 
+--------------------------- 
+No. PE   in  x-direction: 2
+             y-direction: 2
+No. Cells in x-direction: 10
+             y-direction: 10
+
+myPE: 1 x0 = 0.5
+myPE: 1 x1 = 1
+myPE: 1 y0 = 0
+myPE: 1 y1 = 0.5
+myPE: 2 x0 = 0
+myPE: 2 x1 = myPE: 3 x0 = 0.50.5
+myPE: 2 y0 = 0.5
+myPE: 3 x1 = 
+myPE: 2 y1 = 1
+1
+myPE: 3 y0 = 0.5
+myPE: 3 y1 = 1
+myPE: 0 x0 = 0
+myPE: 0 x1 = 0.5
+myPE: 0 y0 = 0
+myPE: 0 y1 = 0.5
+                                          
+Form Linear System:                       
+------------------------------------------
+                                          
+                                          
+Solve Linear System:
+------------------------------------------
+                                          
+Jacobi/GS converged in 149 iterations
+                                          
+Plot Results:
+------------------------------------------
+                                          
+(o) Writing gnuplot command file 'pc'

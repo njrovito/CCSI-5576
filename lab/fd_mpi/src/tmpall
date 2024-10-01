@@ -1,0 +1,33 @@
+
+---------------------------------------------
+
+ F I N I T E   D I F F E R E N C E         
+ D E M O   C O D E                           
+
+ Running on 4 processors 
+
+---------------------------------------------
+
+
+Input Summary: 
+--------------------------- 
+No. PE   in  x-direction: 2
+             y-direction: 2
+No. Cells in x-direction: 10
+             y-direction: 10
+
+1
+                                          
+Form Linear System:                       
+------------------------------------------
+                                          
+                                          
+Solve Linear System:
+------------------------------------------
+                                          
+Jacobi/GS converged in 149 iterations
+                                          
+Plot Results:
+------------------------------------------
+                                          
+(o) Writing gnuplot command file 'pc'

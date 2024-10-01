@@ -1,0 +1,5 @@
+Rank = 3
+North neighbor: -1
+South neighbor: 1
+East  neighbor: -1
+West  neighbor: 2

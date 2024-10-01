@@ -1,0 +1,7 @@
+set xrange [-.1:1.1]
+set yrange [-.1:1.1]
+splot \
+"qval_0_0.plt" w l , "ptcl_0_0.plt" w p lw 1, \
+"qval_1_0.plt" w l , "ptcl_1_0.plt" w p lw 1, \
+"qval_2_0.plt" w l , "ptcl_2_0.plt" w p lw 1, \
+"qval_3_0.plt" w l , "ptcl_3_0.plt" w p lw 1, \

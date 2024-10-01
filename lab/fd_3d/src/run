@@ -1,0 +1,6 @@
+ 
+
+rm *.plt
+
+./fd  -nCellx 10 -nCelly 10 -nCellz 10 -bce 100. -bcw 100. -bcn 100. -bcs 100. -bcf 100. -bcb 10.
+

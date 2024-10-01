@@ -1,0 +1,16 @@
+*.plt
+*~
+esPIC
+cachegrind.out.*
+callgrind.out.*
+valgrindOutput
+vg
+pc_qval
+pc_voltage
+
+
+
+
+
+
+
